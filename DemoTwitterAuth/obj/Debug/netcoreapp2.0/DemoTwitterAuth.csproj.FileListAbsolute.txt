@@ -1,0 +1,12 @@
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\bin\Debug\netcoreapp2.0\DemoTwitterAuth.deps.json
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\bin\Debug\netcoreapp2.0\DemoTwitterAuth.runtimeconfig.json
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\bin\Debug\netcoreapp2.0\DemoTwitterAuth.runtimeconfig.dev.json
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\bin\Debug\netcoreapp2.0\DemoTwitterAuth.dll
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\bin\Debug\netcoreapp2.0\DemoTwitterAuth.pdb
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\DemoTwitterAuth.csprojResolveAssemblyReference.cache
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\DemoTwitterAuth.csproj.CoreCompileInputs.cache
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\DemoTwitterAuth.AssemblyInfoInputs.cache
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\DemoTwitterAuth.AssemblyInfo.cs
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\DemoTwitterAuth.dll
+c:\users\ankit\source\repos\DemoTwitterAuth\DemoTwitterAuth\obj\Debug\netcoreapp2.0\DemoTwitterAuth.pdb
