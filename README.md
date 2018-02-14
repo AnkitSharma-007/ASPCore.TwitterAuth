@@ -1,7 +1,5 @@
 # ASPCore.TwitterAuth
-Authentication is an integral part of web security. ASP.NET Core provides multiple ways to implement authentication in a web application. In this article we will be looking into such a technique – Cookie authentication.
-
-We will be creating a web application to register new users and then implement a login page which allows only the registered user to access the content. We will be using SQL server 2012 and ADO.NET for handling database part of our application.
+Sometimes, we want the users to log in using their existing credentials of third-party applications such as Facebook, Twitter, Google etc. into our application. In this article, we are going to look into authentication of ASP.NET Core app using Twitter.
 
 # Read the full article here
-http://ankitsharmablogs.com/cookie-authentication-with-asp-net-core-2-0/
+http://ankitsharmablogs.com/authentication-using-twitter-in-asp-net-core-2-0/
